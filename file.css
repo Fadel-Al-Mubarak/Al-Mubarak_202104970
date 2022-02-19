@@ -28,7 +28,7 @@ button{
     margin-left: 50px;
     color: white;
     padding: 5px;
-    text-align: left;
+    text-align: center;
     border-radius: 9px;
     background-color: rgba(18, 141, 212, 0.801);
 }
@@ -38,12 +38,13 @@ button{
     margin-bottom: 2px;
     margin-left: 2px;
     margin-right: 2px;
+    text-align: left;
 }
 
 
 h2{
     display: block;
-    text-align: center;
+    text-align: left;
     color: aliceblue;
     line-break: normal;   
     border-bottom: 3px solid gray;
