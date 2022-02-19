@@ -38,13 +38,12 @@ button{
     margin-bottom: 2px;
     margin-left: 2px;
     margin-right: 2px;
-    text-align: left;
 }
 
 
 h2{
     display: block;
-    text-align: left;
+    text-align: center;
     color: aliceblue;
     line-break: normal;   
     border-bottom: 3px solid gray;
