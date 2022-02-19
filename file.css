@@ -12,7 +12,7 @@ body{
 }
 
 h1{
-    text-align: center;
+    text-align: left;
     color: rgb(57,62,93);   
 }
 
@@ -43,7 +43,7 @@ button{
 
 h2{
     display: block;
-    text-align: left;
+    text-align: center;
     color: aliceblue;
     line-break: normal;   
     border-bottom: 3px solid gray;
