@@ -42,9 +42,7 @@ button{
 h2{
     display: block;
     text-align: center;
-    color: aliceblue;   
-}
-
-.thirdDiv{
-    border-bottom: 5px solid gray;
+    color: aliceblue;
+    line-break: normal;   
+    border-bottom: 3px solid gray;
 }
