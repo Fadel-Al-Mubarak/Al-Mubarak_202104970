@@ -27,6 +27,7 @@ input{
 button{
     margin-left: 50px;
     color: white;
+    padding: 5px;
     text-align: center;
     border-radius: 9px;
     background-color: rgba(18, 141, 212, 0.801);
@@ -45,6 +46,10 @@ h2{
     display: block;
     text-align: left;
     color: aliceblue;
-    line-break: normal;   
+    line-break: normal; 
+    margin-bottom: 3px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 2%;  
     border-bottom: 3px solid gray;
 }
