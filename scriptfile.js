@@ -1,4 +1,4 @@
-function addelem(){
+function addtask(){
     var str =document.getElementById("text").value;
     const h2Elem = document.createElement('h2');
     const div2 = document.querySelector('.secondDiv');
