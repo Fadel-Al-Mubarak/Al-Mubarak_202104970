@@ -39,10 +39,17 @@ button{
 
 .secondDiv{
     margin-top: 2px;
-    margin-bottom: 2px;
     margin-left: 50px;
     margin-right: 1px;
     padding: 2%;
+}
+
+.thirdDiv{
+    margin-bottom: 2px;
+    margin-left: 50px;
+    margin-right: 1px;
+    padding: 2%; 
+
 }
 
 
@@ -51,8 +58,9 @@ h2{
     text-align: left;
     color: aliceblue;
     line-break: normal;   
-    margin-bottom: 3px;
+    margin-bottom: 20px;
     margin-right: 5%;
     padding-bottom: 2%;
+    margin-top: 0;
     border-bottom: 3px solid gray;
 }
