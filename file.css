@@ -32,6 +32,8 @@ button{
     border-radius: 9px;
     background-color: rgba(18, 141, 212, 0.801);
     width: 15%;
+    margin-right: 50px;
+
 }
 
 .secondDiv{
@@ -49,7 +51,6 @@ h2{
     color: aliceblue;
     line-break: normal;   
     margin-bottom: 3px;
-    margin-left: 5%;
     margin-right: 5%;
     padding-bottom: 2%;
     border-bottom: 3px solid gray;
